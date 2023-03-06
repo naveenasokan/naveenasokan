@@ -16,7 +16,7 @@ Hi, I'm Naveen Asokan!
 naveenasokan@github
 -------------------------
 💻 I am a self taught Data Science Engineer and Data Analyst
-📚 Im working in Daimler Benz as Data Science Engineer
+📚 Im working in Daimler Benz (Intelizign Lifecycle services) as Data Science Engineer
 📝 Learning Deep Learning , Computer Vision and Neural networks
 🔭 Biggest achievement is transforming my career from Mechanical discpline to DS
 🌱 Love Mathematics and Science
